@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def input_to_index(user_input)
-  board_index = parseInt(${user_input}) - 1
+  board_index = parseInt(user_input) - 1
 end
 
 #def move
