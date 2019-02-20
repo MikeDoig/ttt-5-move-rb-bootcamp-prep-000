@@ -14,6 +14,4 @@ end
 
 def move(board, index, character = "X")
   board[index] = value
-
-puts display_board  
 end
